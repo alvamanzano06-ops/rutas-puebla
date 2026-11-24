@@ -40,7 +40,7 @@ rutas-puebla/
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/rutas-puebla.git
+   git clone https://github.com/alvamanzano06-ops/rutas-puebla.git
    cd rutas-puebla
    ```
 2. Crear y activar el entorno virtual:
